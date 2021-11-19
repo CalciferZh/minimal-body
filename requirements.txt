@@ -1,0 +1,5 @@
+imageio==2.9.0
+numpy==1.19.5
+opencv_python==4.5.2.54
+torch==1.9.0
+transforms3d==0.3.1
