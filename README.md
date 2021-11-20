@@ -12,6 +12,12 @@ The model file is only 51.2 MB and runs at 70fps on a 2080Ti.
 2. Install the dependencies.
 3. Run `python example.py`.
 
+The input image should already be cropped to a 4:3 portrait with the subject in the center.
+
+## Misc
+
+We will __not__ release the training code.
+
 The model is trained using the following datasets jointly:
 * [COCO](https://cocodataset.org/)
 * [MPII2D](http://human-pose.mpi-inf.mpg.de/)
